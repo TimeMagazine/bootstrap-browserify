@@ -1,0 +1,19 @@
+{
+    "name": "bootstrap-browserify",
+    "version": "0.0.1",
+    "description": "Browserify package for Twitter Bootstrap",
+    "main": "index.js",
+    "repository": {
+    },
+    "dependencies": {
+    },
+    "browserify": {
+        "transform": []
+    },
+    "author": {
+        "name" : "Chris Wilson",
+        "email" : "wilson@mechanicalscribe.com",
+        "url" : "http://mechanicalscribe.com"
+    },
+    "scripts" : {}
+}
