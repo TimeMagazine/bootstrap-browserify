@@ -1,8 +1,8 @@
 // NOTE: The bootstrap file has been hackily modified to be wrapped in a "tw-bs" class.
 
 (function($) {
-	require("./bootstrap.css2.js");
-	require("./bootstrap/dist/js/bootstrap.min.js")
+	require("./bootstrap.css.js");
+	require("./bootstrap.min.js")
 
 	// Add a parent <div> with the main bootstrap class. All BS elements should go inside.
 	var addControlPanel = module.exports.addControlPanel = function(parent_object, id) {
